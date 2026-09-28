@@ -61,3 +61,14 @@ Flask. Use it in two ways:
 7. [Views and Partials](rails/07-views-and-partials.md)
 8. [Callbacks](rails/08-callbacks.md)
 9. [Testing Basics](rails/09-testing-basics.md)
+
+## Python
+
+1. [Data Types and Collections](python/01-data-types-and-collections.md)
+2. [Functions: args, kwargs, and Defaults](python/02-functions-args-kwargs-defaults.md)
+3. [Comprehensions](python/03-comprehensions.md)
+4. [Classes and OOP](python/04-classes-and-oop.md)
+5. [Decorators](python/05-decorators.md)
+6. [Error Handling](python/06-error-handling.md)
+7. [Context Managers](python/07-context-managers.md)
+8. [Modules and Imports](python/08-modules-and-imports.md)
