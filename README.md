@@ -8,6 +8,12 @@ This is a personal reference for React and Redux. Use it in two ways:
 ## JavaScript Fundamentals
 
 1. [Array Methods: map, filter, reduce](javascript/01-array-methods.md)
+2. [Destructuring and Default Values](javascript/02-destructuring.md)
+3. [Spread and Rest](javascript/03-spread-and-rest.md)
+4. [Optional Chaining and Nullish Coalescing](javascript/04-optional-chaining-and-nullish-coalescing.md)
+5. [Promises and async/await](javascript/05-promises-and-async-await.md)
+6. [Closures](javascript/06-closures.md)
+7. [More Array Methods: find, some, every, sort](javascript/07-more-array-methods.md)
 
 ## React
 
