@@ -5,6 +5,10 @@ This is a personal reference for React and Redux. Use it in two ways:
 - While coding: open the file for the pattern you need and copy the code.
 - Before an interview: skim the "Interview angle" section in each file.
 
+## JavaScript Fundamentals
+
+1. [Array Methods: map, filter, reduce](javascript/01-array-methods.md)
+
 ## React
 
 1. [JSX and Components](react/01-jsx-and-components.md)
