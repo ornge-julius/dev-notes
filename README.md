@@ -1,6 +1,7 @@
-# React and Redux Reference Guide
+# Developer Reference Guide
 
-This is a personal reference for React and Redux. Use it in two ways:
+This is a personal reference for React, Redux, Ruby, Rails, Python, and
+Flask. Use it in two ways:
 
 - While coding: open the file for the pattern you need and copy the code.
 - Before an interview: skim the "Interview angle" section in each file.
@@ -38,3 +39,13 @@ This is a personal reference for React and Redux. Use it in two ways:
 3. [Redux Toolkit](redux/03-redux-toolkit.md)
 4. [React-Redux Hooks](redux/04-react-redux-hooks.md)
 5. [Async Logic with Thunks](redux/05-async-thunks.md)
+
+## Ruby
+
+1. [Arrays and Enumerable](ruby/01-arrays-and-enumerable.md)
+2. [Hashes](ruby/02-hashes.md)
+3. [Blocks, Procs, and Lambdas](ruby/03-blocks-procs-and-lambdas.md)
+4. [Symbols and Strings](ruby/04-symbols-and-strings.md)
+5. [Classes and OOP](ruby/05-classes-and-oop.md)
+6. [Modules and Mixins](ruby/06-modules-and-mixins.md)
+7. [Error Handling](ruby/07-error-handling.md)
