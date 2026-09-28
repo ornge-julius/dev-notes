@@ -16,6 +16,10 @@ This is a personal reference for React and Redux. Use it in two ways:
 7. [The useEffect Hook](react/07-hooks-useeffect.md)
 8. [useContext, useRef, useMemo, useCallback](react/08-hooks-usecontext-and-others.md)
 9. [Component Patterns](react/09-component-patterns.md)
+10. [Class Components and Lifecycle Methods](react/10-class-components.md)
+11. [Design Patterns: HOC, Render Props, Compound Components](react/11-design-patterns.md)
+12. [React Router](react/12-react-router.md)
+13. [Performance: memo, useMemo, useCallback, Code Splitting](react/13-performance-and-code-splitting.md)
 
 ## Redux
 
