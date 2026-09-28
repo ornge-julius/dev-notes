@@ -49,3 +49,15 @@ Flask. Use it in two ways:
 5. [Classes and OOP](ruby/05-classes-and-oop.md)
 6. [Modules and Mixins](ruby/06-modules-and-mixins.md)
 7. [Error Handling](ruby/07-error-handling.md)
+
+## Ruby on Rails
+
+1. [MVC and the Request Lifecycle](rails/01-mvc-and-request-lifecycle.md)
+2. [Routes](rails/02-routes.md)
+3. [Controllers and Strong Params](rails/03-controllers-and-strong-params.md)
+4. [Models, Migrations, and Validations](rails/04-models-migrations-and-validations.md)
+5. [Associations](rails/05-associations.md)
+6. [Query Methods and the N+1 Problem](rails/06-query-methods-and-n-plus-one.md)
+7. [Views and Partials](rails/07-views-and-partials.md)
+8. [Callbacks](rails/08-callbacks.md)
+9. [Testing Basics](rails/09-testing-basics.md)
