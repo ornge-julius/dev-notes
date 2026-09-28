@@ -1,7 +1,11 @@
 # Developer Reference Guide
 
-This is a personal reference for React, Redux, Ruby, Rails, Python, and
-Flask. Use it in two ways:
+This repo is a personal, copy-paste reference for React, Redux, Ruby,
+Rails, Python, and Flask. It started as notes for Stephen Grider's React
+course on Udemy, then grew to cover general production fundamentals for
+Ruby on Rails and Python as well.
+
+Use it in two ways:
 
 - While coding: open the file for the pattern you need and copy the code.
 - Before an interview: skim the "Interview angle" section in each file.
